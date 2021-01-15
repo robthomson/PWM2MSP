@@ -1,4 +1,4 @@
-# ExBUS2MSP
+# PWM2MSP
 
 A little conversion to allow you to toggle a servo channel - and convert it to the approproate MSP signal to arm/disarm the dji air unit.
 
