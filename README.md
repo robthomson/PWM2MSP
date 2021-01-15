@@ -14,7 +14,7 @@ Code is a bit messy and taken from loads of different projects!
 
 Wiring is easy:
 
-With the TEENSY 3.2
+With the TEENSY 3.2  (tecically all this code should work on an arduino nano - but you may need to change the serial port used!)
 
 PIN 9  => CONNECT TO EXBUS PIN ON RX
 PIN 8 => RX ON AIR UNIT
